@@ -1,5 +1,0 @@
-1. environment = solubility_env
-
-2. cd = PS C:\Users\Ranjitha\Desktop\Data_Pro\Solubility app>
-
-3. to open app =  streamlit run solubility-app.py
